@@ -1,4 +1,4 @@
-# 🚗 Dynamic Parking Availability System
+#  Dynamic Parking Availability System
 
 ![Progress](https://img.shields.io/badge/Status-Completed-brightgreen)
 
@@ -8,7 +8,7 @@ A real-time smart parking monitoring system using **PIC16F877A**, **ultrasonic &
 
 ---
 
-## 📌 Objectives
+##  Objectives
 
 - Detect real-time parking slot occupancy.
 - Count vehicle entry and exit using IR sensors.
@@ -18,7 +18,7 @@ A real-time smart parking monitoring system using **PIC16F877A**, **ultrasonic &
 
 ---
 
-## 🧠 System Workflow
+## System Workflow
 
 ### 1. Sensor Interfacing
 - **Ultrasonic sensor** → Measures distance to detect if slot is occupied.
@@ -37,8 +37,8 @@ A real-time smart parking monitoring system using **PIC16F877A**, **ultrasonic &
   - Temperature  
   - Humidity  
 - **LED indicators**:
-  - 🔴 Red → Slot occupied  
-  - 🟢 Green → Slot free  
+  -  Red → Slot occupied  
+  -  Green → Slot free  
 
 ---
 
@@ -54,7 +54,7 @@ A real-time smart parking monitoring system using **PIC16F877A**, **ultrasonic &
 
 ---
 
-## 🧪 Results
+##  Results
 
 ### ✔ Performance Summary
 - Accurate entry/exit counting  
@@ -65,7 +65,7 @@ A real-time smart parking monitoring system using **PIC16F877A**, **ultrasonic &
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 - Add Wi-Fi or Bluetooth for IoT-based monitoring
 - Build a mobile app to show available parking slots in real-time
 - Expand system to support multiple parking slots
@@ -75,7 +75,7 @@ A real-time smart parking monitoring system using **PIC16F877A**, **ultrasonic &
 
 ---
 
-## 🤝 Contributors
+##  Contributors
 
 Shivani K C
 
